@@ -1,1 +1,11 @@
-[variable](#) 
+
+
+
+
+
+
+
+
+link:www.google.com[variable]
+
+`var`
