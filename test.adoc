@@ -1,11 +1,5 @@
-
-
-
-
-
-
-
-
-link:www.google.com[variable]
-
 `var`
+
+link:www.google.com[var]
+
+
